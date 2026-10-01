@@ -1,15 +1,6 @@
 # 📚 E-Learning Platform
 
-A modern, fully responsive **E-Learning website** built with **HTML5, SCSS, and vanilla JavaScript**. It includes course listings, instructor profiles, testimonials, and complete authentication pages — designed with a clean UI and mobile-first approach.
-
----
-
-## 🖼️ Preview
-
-> Home page with hero slider, course cards, instructor profiles, and testimonials.
-
-*(Add screenshots here)*
-
+A modern, fully responsive **E-Learning website** built with **HTML5, SCSS, and vanilla JavaScript**. It includes course listings, instructor profiles, testimonials, and complete authentication pages — designed with a clean UI and mobile-first approach
 ---
 
 ## ✨ Features
